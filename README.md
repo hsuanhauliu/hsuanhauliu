@@ -1,10 +1,8 @@
 # Howard Liu
 
-Hey! :wave: Welcome to my Github page. My name is Hsuan-Hau, but I go by the name Howard. I'm a software engineer at Google working on full-stack web development. I'm interested in a lot of areas and always experimenting with different tools and technologies. When I'm not coding, I enjoy playing sports, instruments, photography, video editing, etc.
+Hey! :wave: Welcome to my Github page. Hope you find something useful here!
 
-Hope you find something useful here!
-
-You can also find me on my:
+You can also find me on:
 
 - [Personal website](https://hsuanhauliu.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/hsuanhauliu/)
