@@ -1,18 +1,15 @@
-# Howard Liu
+# Howard Liu [![Google](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white)](#)
 
-[![Google](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white)](#)
-
-Hey! :wave: Welcome to my Github. Hope you find something useful here!
-
-You can also find me on:
+:wave: Welcome to my Github. Hope you find something useful here!
 
 - [My website](https://hsuanhauliu.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/hsuanhauliu/)
 
 <!-- got these from https://github.com/inttter/md-badges -->
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
